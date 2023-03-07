@@ -48,7 +48,7 @@ metadata:
   namespace: app-test-1
 spec:
   rules:
-  - host: "localhost"
+  - host: "myapp.com"
     http:
       paths:
       - path: /
