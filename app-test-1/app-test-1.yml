@@ -48,7 +48,7 @@ metadata:
   namespace: app-test-1
 spec:
   rules:
-  - host: "argocd.example.com"
+  - host: "argocd.kube-demo-1.clcreative.home"
     http:
       paths:
       - path: /
